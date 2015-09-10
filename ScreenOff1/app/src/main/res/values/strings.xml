@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenOff</string>
+    <string name="hello_world">TOCA EL BOTON INICIAR Y LUEGO BLOQUEA EL TELEFONO</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
